@@ -1,1 +1,1 @@
-# python-practice
+# snippets
